@@ -18,6 +18,6 @@ define tmux::config(
 		},
 		owner => $owner,
 		group => $group,
-		mode => "0644',
+		mode => '0644',
   	}
 }
